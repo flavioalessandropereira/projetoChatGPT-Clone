@@ -18,4 +18,3 @@ Criar um clone do ChatGPT, utilizando o Node e Javascript
 ```bash
 npm run start 
 ```
-

@@ -8,6 +8,7 @@ Criar um clone do ChatGPT, utilizando o Node e Javascript
 * Javascript
 
 # 💡 Como usar
-
+```
 - no VsCode abrir dois teminais (01 pasta para server / 01 para a pasta web)
 - digitar o comando: npm run start  /  no dois teminais
+```

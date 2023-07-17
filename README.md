@@ -1,4 +1,4 @@
-#⚔ Desafio Proposto
+# ⚔ Desafio Proposto
 
 Criar um clone do ChatGPT, utilizando o Node e Javascript
 
@@ -7,4 +7,4 @@ Criar um clone do ChatGPT, utilizando o Node e Javascript
 * Node.js
 * Javascript
 
-#💡 Como USAR
+# 💡 Como USAR

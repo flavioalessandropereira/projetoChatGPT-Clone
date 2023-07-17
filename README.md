@@ -7,4 +7,4 @@ Criar um clone do ChatGPT, utilizando o Node e Javascript
 * Node.js
 * Javascript
 
-💡 Como USAR
+#💡 Como USAR

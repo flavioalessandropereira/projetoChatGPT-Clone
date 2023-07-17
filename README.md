@@ -1,5 +1,5 @@
 # Projeto ChatGPT Clone
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioalessandropereira&repo=projetoChatGPT-Clone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/flavioalessandropereira/projetoChatGPT-Clone/)
 Este é um projeto de clonagem de um chatbot utilizando a linguagem modelo GPT (Generative Pre-trained Transformer). O objetivo do projeto é demonstrar a capacidade do modelo em gerar respostas em linguagem natural com base em prompts fornecidos pelo usuário.
 
 O projeto inclui uma aplicação web desenvolvida com React.js para a interface do usuário, além de integrações com APIs e componentes personalizados para exibir as mensagens do chat. O modelo GPT é utilizado para processar as entradas dos usuários e gerar respostas apropriadas.

@@ -19,6 +19,5 @@ Criar um clone do ChatGPT, utilizando o Node e Javascript
 npm run start 
 ```
 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioalessandropereira&repo=projetoChatGPT-Clone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/flavioalessandropereira/projetoChatGPT-Clone/)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flavioalessandropereira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
